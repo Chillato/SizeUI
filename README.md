@@ -2,4 +2,4 @@
 SizeUI PocketMine 4
 
 # Download .phar
-https://youtu.be/rT3dtwJyaNw
+https://www.mediafire.com/file/1v44nfvk8p5h22w/SizeUI.phar/file
