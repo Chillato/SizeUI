@@ -1,0 +1,15 @@
+name: SizeUI
+version: 1.0
+main: ChillatoDev\Main
+api: 4.0.0
+author: ChillatoDev
+
+commands:
+  sizeui:
+    permission: sizeui.use
+    description: "open sizeui"
+
+permissions:
+  sizeui.use:
+    description: open sizeui
+    default: op
